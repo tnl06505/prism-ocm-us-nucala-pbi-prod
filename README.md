@@ -1,2 +1,3 @@
-# prism-esg-us-nucala-pbi-dev
-Redirect to US Nucala dev Power BI dashboard
+`https://<user>.github.io/<repo>/<filepath>`
+
+e.g. https://gsk-tech.github.io/prism-esg-us-nucala-pbi-dev/index.html
